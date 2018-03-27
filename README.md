@@ -5,4 +5,5 @@
 
 
 
-Credits goes to [!link] www.github.com/naumanafsar
+Credits goes to [Nauman Afsar](https://github.com/naumanafsar)
+
